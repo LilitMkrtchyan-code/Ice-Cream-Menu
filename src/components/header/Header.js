@@ -9,7 +9,7 @@ const Header = ({ onMenuFilter }) => {
       <div className="container">
         <div className="header-section__content">
           <div className="header-section__logo">
-            <a href="http://localhost:3000/">
+            <a href="https://lilitmkrtchyan-code.github.io/Ice-Cream-Menu/">
               <img src={iceCreamImg} alt="logo" />
             </a>
           </div>

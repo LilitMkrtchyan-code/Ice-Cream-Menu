@@ -1,0 +1,25 @@
+.search-form__input {
+  width: 180px;
+  padding: 9px 10px;
+  border-radius: 4px;
+  border: 2px solid #c0bfbf;
+}
+
+.search-form__input:focus {
+  border: none;
+  outline: 2px solid #f48bc8;
+}
+
+@media (max-width: 575px) {
+  .search-form__input {
+    width: 150px;
+    padding: 7px 10px;
+  }
+}
+
+@media (max-width: 420px) {
+  .search-form__input {
+    width: 120px;
+    padding: 7px 10px;
+  }
+}

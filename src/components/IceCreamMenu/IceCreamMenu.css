@@ -1,0 +1,45 @@
+.menu__title {
+  font-size: 60px;
+  letter-spacing: 2px;
+  margin: 60px auto 0;
+}
+
+.menu__text {
+  font-size: 20px;
+  margin-top: 20px auto 0;
+}
+
+.menu__title,
+.menu__text {
+  font-family: "Roboto", serif;
+  font-weight: 400;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+.menu__list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 34px;
+  margin: 61px 0 100px;
+}
+
+.menu__empty {
+  font-family: "Open Sans", serif;
+  font-size: 24px;
+  text-align: center;
+  color: #f48bc8;
+}
+
+@media (max-width: 991px) {
+  .menu__list {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
+
+@media (max-width: 575px) {
+  .menu__title {
+    font-size: 36px;
+    margin: 55px auto 0;
+  }
+}

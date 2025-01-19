@@ -1,0 +1,35 @@
+.header-section {
+  background-color: #f7f7f7;
+  padding: 5px;
+}
+
+.header-section__content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-section__logo {
+  width: 86px;
+  height: 86px;
+}
+
+.header-section__nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+@media (max-width: 575px) {
+  .header-section__logo {
+    width: 75px;
+    height: 75px;
+  }
+}
+
+@media (max-width: 420px) {
+  .header-section__nav {
+    gap: 10px;
+  }
+}

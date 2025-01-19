@@ -1,0 +1,41 @@
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+
+.social-icon {
+  background-color: #fff;
+  padding: 6px;
+  border-radius: 4px;
+  width: 32px;
+  height: 32px;
+  transition: 0.2s ease-in-out;
+}
+
+.social-icon:hover {
+  background-color: #f48bc8;
+}
+
+@media (max-width: 575px) {
+  .social-links {
+    gap: 4px;
+  }
+  .social-icon {
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+  }
+}
+
+@media (max-width: 420px) {
+  .social-links {
+    flex-direction: column;
+  }
+  .social-icon {
+    padding: 5px;
+    width: 26px;
+    height: 26px;
+  }
+}

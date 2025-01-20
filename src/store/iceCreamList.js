@@ -17,7 +17,7 @@ const iceCreamList = [
   },
   {
     id: 3,
-    name: "Ice Cream Sundae",
+    name: "Sundae Ice Cream",
     description:
       "This decadent treat features rich, freshly brewed coffee paired with smooth, velvety ice cream.",
     price: 6.5,
@@ -35,7 +35,7 @@ const iceCreamList = [
   },
   {
     id: 5,
-    name: "Ice Cream Gelato",
+    name: "Gelato Ice Cream",
     description:
       "A smooth and creamy Italian-style ice cream, Gelato is made with a higher ratio of milk to cream.",
     price: 10,
@@ -54,7 +54,7 @@ const iceCreamList = [
 
   {
     id: 7,
-    name: "Ice Cream Dessert",
+    name: "Dessert Ice Cream",
     description:
       "This ice cream dessert is a perfect blend of creamy, indulgent ice cream layered with your favorite toppings.",
     price: 6.5,
@@ -63,7 +63,7 @@ const iceCreamList = [
   },
   {
     id: 8,
-    name: "Ice Cream Sweet",
+    name: "Sweet Ice Cream",
     description:
       "A delightful and creamy treat, Ice Cream Sweet offers a perfect balance of sweetness and smoothness in every bite.",
     price: 7.5,
@@ -72,25 +72,25 @@ const iceCreamList = [
   },
   {
     id: 9,
-    name: "Ice Cake with Fruits",
+    name: "Ice Cake with fruits",
     description:
       "A refreshing and indulgent dessert that combines the creamy richness of ice cream with the vibrant sweetness of fresh fruits.",
-    price: 25,
+    price: 13,
     imageUrl:
       "https://cdn.pixabay.com/photo/2015/10/23/21/01/bake-1003685_1280.jpg",
   },
   {
     id: 10,
-    name: "Pistachio Ice Cream",
+    name: "Chocolate Ice Cake",
     description:
-      "Is a rich and creamy frozen dessert made from finely chopped pistachios.",
+      "Cake ice cream chocolate is a decadent dessert that combines the rich, creamy texture of chocolate ice cream with the sweet, moist elements of cake.",
     price: 12,
     imageUrl:
-      "https://cdn.pixabay.com/photo/2020/02/19/16/27/ice-cream-4862623_1280.jpg",
+      "https://cdn.pixabay.com/photo/2019/07/14/13/33/cake-4337127_960_720.jpg",
   },
   {
     id: 11,
-    name: "Vanilla chocolate",
+    name: "Vanilla Chocolate",
     description:
       "A perfect blend of smooth vanilla ice cream and rich, velvety chocolate.",
     price: 8,
@@ -99,7 +99,25 @@ const iceCreamList = [
   },
   {
     id: 12,
-    name: "Ice Cream Flavor",
+    name: "Pistachio Ice Cream",
+    description:
+      "Is a rich and creamy frozen dessert made from finely chopped pistachios.",
+    price: 12,
+    imageUrl:
+      "https://cdn.pixabay.com/photo/2020/02/19/16/27/ice-cream-4862623_1280.jpg",
+  },
+  {
+    id: 13,
+    name: "Strawberry Ice Cream",
+    description:
+      "Strawberry ice cream is a creamy, sweet dessert made with ripe strawberries, sugar, and cream, often enhanced with a hint of vanilla.",
+    price: 6.5,
+    imageUrl:
+      "https://cdn.pixabay.com/photo/2024/07/02/12/07/ai-generated-8867608_1280.png",
+  },
+  {
+    id: 14,
+    name: "Flavor Ice Cream",
     description:
       "Indulge in the ultimate frozen treat with our signature Ice Cream Flavor, crafted from the finest ingredients.",
     price: 7.5,

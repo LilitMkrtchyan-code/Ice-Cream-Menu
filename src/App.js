@@ -1,7 +1,7 @@
 import { useState } from "react";
 import iceCreamList from "./store/iceCreamList";
 import Header from "./components/header/Header";
-import IceCreamMenu from "./components/IceCreamMenu/IceCreamMenu";
+import IceCreamMenu from "./components/iceCreamMenu/IceCreamMenu";
 import Footer from "./components/footer/Footer";
 import "./App.css";
 

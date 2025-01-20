@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ice-Cream-Menu/static/css/main.2955ca04.css",
-    "main.js": "/Ice-Cream-Menu/static/js/main.8574239f.js",
-    "static/media/ice-cream.png": "/Ice-Cream-Menu/static/media/ice-cream.2cf1df744f842d7b9083.png",
-    "static/media/instagram.png": "/Ice-Cream-Menu/static/media/instagram.b691a9313791ac3058c8.png",
-    "static/media/facebook.png": "/Ice-Cream-Menu/static/media/facebook.11847e03ada611eb2580.png",
-    "index.html": "/Ice-Cream-Menu/index.html",
-    "main.2955ca04.css.map": "/Ice-Cream-Menu/static/css/main.2955ca04.css.map",
-    "main.8574239f.js.map": "/Ice-Cream-Menu/static/js/main.8574239f.js.map"
+    "main.css": "/ice-cream-menu/static/css/main.2955ca04.css",
+    "main.js": "/ice-cream-menu/static/js/main.cd4631c1.js",
+    "static/media/ice-cream.png": "/ice-cream-menu/static/media/ice-cream.2cf1df744f842d7b9083.png",
+    "static/media/instagram.png": "/ice-cream-menu/static/media/instagram.b691a9313791ac3058c8.png",
+    "static/media/facebook.png": "/ice-cream-menu/static/media/facebook.11847e03ada611eb2580.png",
+    "index.html": "/ice-cream-menu/index.html",
+    "main.2955ca04.css.map": "/ice-cream-menu/static/css/main.2955ca04.css.map",
+    "main.cd4631c1.js.map": "/ice-cream-menu/static/js/main.cd4631c1.js.map"
   },
   "entrypoints": [
     "static/css/main.2955ca04.css",
-    "static/js/main.8574239f.js"
+    "static/js/main.cd4631c1.js"
   ]
 }

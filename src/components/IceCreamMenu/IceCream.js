@@ -17,7 +17,7 @@ const IceCream = ({ iceCream }) => {
           </a>
         </h4>
         <div className="ice-cream__price">$ {iceCream.price}</div>
-        <div className="ice-cream__description">{iceCream.description}</div>
+        <div className="ice-cream__description">{iceCream.ingredients}</div>
         <button type="button" className="ice-cream__btn">
           View
         </button>
